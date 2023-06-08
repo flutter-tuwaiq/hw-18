@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.8 (swiftlang-5.8.0.124.2 clang-1403.0.22.11.100)"
+options: "169a8d46c326eccee10bf4f5c9253835eb5c1409e9a778485fa9243dbbe0c740"
+build_start_time: [1686207783, 283939000]
+build_end_time: [1686207790, 569190000]
+inputs:
+  "/Users/amnahalherz/Desktop/hw_18/macos/Flutter/GeneratedPluginRegistrant.swift": [1686207766, 109678750]
+  "/Users/amnahalherz/Desktop/hw_18/macos/Runner/AppDelegate.swift": [1685942758, 160820162]
+  "/Users/amnahalherz/Desktop/hw_18/macos/Runner/MainFlutterWindow.swift": [1685942758, 162215051]
