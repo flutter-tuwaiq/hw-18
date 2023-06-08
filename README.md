@@ -1,3 +1,3 @@
-# Homework #18
+# flutter_application_1
 
-## Create a weather app that displays different cities with their temps using 
+A new Flutter project.
